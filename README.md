@@ -62,6 +62,8 @@ https://aws.amazon.com/premiumsupport/knowledge-center/internet-access-lambda-fu
 
 ## Copyrights
 This code is based on the lambda authorizer example for Python from AWS.
+```
 Copyrights 2020 Mario Gómez <mxgxw.alpha@gmail.com>
 Apache 2.0 License
+```
 
